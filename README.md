@@ -47,17 +47,17 @@
 
 ### <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px"></picture> Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FelipePedraza&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de Felipe" />
-</p>
+- 📊 Resumen General
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FelipePedraza&theme=tokyonight" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FelipePedraza&theme=tokyonight" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FelipePedraza&theme=tokyonight&hide_border=true" alt="Racha de Commits" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePedraza&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
-</p>
+- 💻 Lenguajes Más Utilizados
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FelipePedraza&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FelipePedraza&theme=tokyonight" />
+</div>
 
 ---
 <table border="0" style="border: none; width: 100%;">
